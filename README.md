@@ -1,4 +1,4 @@
-# Fork and Spoon -- a Recipe App
+# Fork and Spoon – a Recipe App
 My own modifications & added functionality to the forkify app.
 <h3>Note:</h3>
 <p>This is not a finished site yet. If the number of servings says 'undefined servings', try refreshing the page. If enough time has passed, sometimes you can click the - and + buttons and it will work because it was able to store the servings in local storage after undefined is displayed.</p>
